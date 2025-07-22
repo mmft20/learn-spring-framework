@@ -19,3 +19,8 @@ Date : 2025-07-23
     -- Created the project using Spring Initializr.
     -- Imported Project in IntelliJ as Maven Project from Existing resources.
     -- Started the Spring Project.
+
+---
+    Lecture 152
+    -- Created GameRunner and MarioGame class in Game Package.
+    -- Called GameRunner run() from mail LearnSpringFrameworkApplication class.
