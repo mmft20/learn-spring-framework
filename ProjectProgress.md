@@ -31,3 +31,10 @@ Date : 2025-07-23
     -- Called GameRunner run() from mail LearnSpringFrameworkApplication class to execute SuperContraGame.
     -- This shows that GameRunner is tighly coupled to eiter MarioGame or SuperContraGame.
     -- We need to Update GameRunner everytime we want to run a dufferent game.
+
+---
+    Lecture 154
+    -- Created GamingConsole interface.
+    -- Implemented interface for Mario SuperContra and PacmanGame classes.
+    -- Updated GameRunner class to have variable of type GamingConsole rather than a specific game.
+    -- this is how we implemented loose couppling using Interface.
