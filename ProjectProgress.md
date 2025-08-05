@@ -23,12 +23,12 @@ Date : 2025-07-23
 ---
     Lecture 152
     -- Created GameRunner and MarioGame class in Game Package.
-    -- Called GameRunner run() from mail LearnSpringFrameworkApplication class.
+    -- Called GameRunner run() from main LearnSpringFrameworkApplication class.
 
 ---
     Lecture 153
     -- Created SuperContraGame class in Game Package.
-    -- Called GameRunner run() from mail LearnSpringFrameworkApplication class to execute SuperContraGame.
+    -- Called GameRunner run() from main LearnSpringFrameworkApplication class to execute SuperContraGame.
     -- This shows that GameRunner is tighly coupled to eiter MarioGame or SuperContraGame.
     -- We need to Update GameRunner everytime we want to run a dufferent game.
 

@@ -12,7 +12,7 @@ public class LearnSpringFrameworkApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(LearnSpringFrameworkApplication.class, args);
+		// SpringApplication.run(LearnSpringFrameworkApplication.class, args);
 		MarioGame game1 = new MarioGame();
 		PacManGame game2 = new PacManGame();
 		SuperContraGame game3 = new SuperContraGame();
