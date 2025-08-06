@@ -38,3 +38,16 @@ Date : 2025-07-23
     -- Implemented interface for Mario SuperContra and PacmanGame classes.
     -- Updated GameRunner class to have variable of type GamingConsole rather than a specific game.
     -- this is how we implemented loose couppling using Interface.
+
+---
+    Lecture 155
+    -- Nothing Much
+
+---
+    Lecture 156
+    -- IMPORTANT
+    -- How @Compoent and @Autowired are added and used.
+    -- How Spring context is craeted and assigned to a variable.
+    -- How the Spring context variable is used to craete a Bean.
+    -- How the BEAN craetion happens automatically using @autowired for GameRunner class.
+    -- Why Only SuperContraGame insyance was craeted as a dependency for GameRunner class.
